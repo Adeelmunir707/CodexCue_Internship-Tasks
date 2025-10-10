@@ -1,4 +1,4 @@
-# CodexCue_Internship-Tasks
+# Machine Learning Projects
 
 This repository contains various projects completed during the CodexCue internship. Each project is organized into its own folder and includes all relevant code and documentation.
 
